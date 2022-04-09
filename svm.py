@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Apr  8 14:44:43 2022
-
-@author: gonzaloreinoso
-"""
 
 from __future__ import print_function, division  # Python 2 compatibility if needed
 import numpy as np
